@@ -14,6 +14,8 @@ Dataset :
 
 You’ll have access to a dataset of 10,000 tweets that were hand classified.
 
+Shape - (7613 x 5)
+
 Languages and libraries :
 
 This project uses python3, sklearn, numpy, pandas, re, string, collections, rake_nltk in jupyter notebook(Anaconda Distribution).
